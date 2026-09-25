@@ -2,7 +2,7 @@ int maxArea(int* height, int heightSize) {
     int left = 0;
     int right = heightSize - 1;
     int max = 0;
-
+//krish
     while (left < right) {
         int h;
 
