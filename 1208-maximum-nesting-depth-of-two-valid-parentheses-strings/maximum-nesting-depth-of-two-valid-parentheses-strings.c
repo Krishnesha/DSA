@@ -22,3 +22,4 @@ int* maxDepthAfterSplit(char* seq, int* returnSize) {
 
     return ans;
 }
+//krish
